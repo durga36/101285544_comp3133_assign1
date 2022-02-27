@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGO_USER": "DBS",
+        "MONGO_PASSWORD": "DBS",
+        "MONGO_DB": "GraphQLAss1"
+    }
+}
